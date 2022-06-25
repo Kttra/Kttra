@@ -6,4 +6,4 @@
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kttra&layout=compact&theme=github_dark&show_icons=true)](https://github.com/kttra"/>
-<img align="left" width="405" src="https://github-readme-stats.vercel.app/api?username=kttra&hide=contribs,issues,stars,rank&show_icons=true&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true&hide_rank=true"/>
+<img align="left" width="402" src="https://github-readme-stats.vercel.app/api?username=kttra&hide=contribs,issues,stars,rank&show_icons=true&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true&hide_rank=true"/>
