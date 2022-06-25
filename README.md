@@ -1,6 +1,7 @@
 ### My Stats
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kttra&layout=compact&theme=github_dark&show_icons=true)](https://github.com/kttra"/>
-<img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=kttra&hide=contribs,issues,stars,rank&show_icons=true&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true&hide_rank=true"/>
+<img align="left" width="410" src="https://github-readme-stats.vercel.app/api?username=kttra&hide=contribs,issues,stars,rank&show_icons=true&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true&hide_rank=true"/>
+
 
 <img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
