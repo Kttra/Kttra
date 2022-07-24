@@ -2,10 +2,10 @@
 
 ### I'm a software developer
 
-- 🔭 Check out my C# Overview Repo: [C# Review](https://github.com/Kttra/CSharpCode)!
-- 🌱 I’m currently learning as much as I can
-- 🥅 2022 Goals: Learn more about different frameworks
-- ⚡ Fun fact: I love to play rhythm games and bike.
+- 🔭 Check out my Overview Repos: [C# Review](https://github.com/Kttra/CSharpCode) | [Javascript Review](https://github.com/Kttra/JavascriptCode) | [C++ Soon](https://github.com/Kttra/CppCode)
+- 🌱 Constantly learning new things to improve my coding skills
+- 🥅 2022 Goal: Learn other programming langauges and frameworks
+- ⚡ Fun fact: I love biking and playing rhythm games
 
 ### My Stats
 <img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
