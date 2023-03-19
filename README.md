@@ -4,7 +4,7 @@
 
 - 🔭 Check out my Overview Repos: [C# Review](https://github.com/Kttra/CSharpCode) | [Javascript Review](https://github.com/Kttra/JavascriptCode) | [C++ Soon](https://github.com/Kttra/CppCode)
 - 🌱 Constantly learning new things to improve my coding skills
-- 🥅 2022 Goal: Learn other programming langauges and frameworks
+- 🥅 Goal: Learn other programming langauges and frameworks
 - ⚡ Fun fact: I love biking and playing rhythm games
 
 ### My Stats
