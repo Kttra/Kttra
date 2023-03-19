@@ -2,7 +2,7 @@
 
 ### I'm a software developer
 
-- 🔭 Check out my Overview Repos: [C# Review](https://github.com/Kttra/CSharpCode) | [Javascript Review](https://github.com/Kttra/JavascriptCode) | [C++ Review](https://github.com/Kttra/CppCode)
+- 🔭 Check out my Overview Repos: [C# Review](https://github.com/Kttra/CSharpCode) | [Javascript Review](https://github.com/Kttra/JavascriptCode) | [C++ Review](https://github.com/Kttra/CppCode) | [Python Review](https://github.com/Kttra/PythonCode)
 - 🌱 Constantly learning new things to improve my coding skills
 - 🥅 Goal: Learn other programming langauges and frameworks
 - ⚡ Fun fact: I love biking and playing rhythm games
