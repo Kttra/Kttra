@@ -33,7 +33,7 @@ Outside of programming, I enjoy biking, reading, and working on personal project
   />
 </p>
 
-### 💻 Development Focus
+### Development Focus
 
 - **Backend Development:** C#, .NET, REST APIs
 - **Software Engineering:** Object-Oriented Programming, System Design
